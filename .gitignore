@@ -1,5 +1,5 @@
+# CRITICAL: Exclude all local files/folders we DO NOT want to upload to GitHub
 venv_cv/
 Action_Data/
 *.pkl
 *.pt
-*.onnx

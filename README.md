@@ -57,3 +57,21 @@ To run the system, follow these simple steps using the fixed environment:
     python real_time_monitor.py
     ```
     *(Press **'q'** to quit the application.)*
+
+    ### 🔑 External Assets (Required Models & Reference Environment)
+
+Due to file size constraints and non-portability, these essential assets are hosted externally.
+
+#### 1. Required Model Assets (CRITICAL for running the app)
+
+The **Trained Model** (`security_action_model.pkl`) and the **Label Encoder** (`action_encoder.pkl`) are required to run the final application.
+
+* **Download Link:** [DOWNLOAD PKL ASSETS HERE](https://drive.google.com/drive/folders/1LKJZvXZLxYPf1dPAxKiQRmJpGkoF2EUx?usp=drive_link)
+* **Action:** Download all files from this folder and place them directly into your project's root directory.
+
+#### 2. Reference Environment (Advanced Use Only)
+
+The **`venv_cv`** folder, containing the complete local environment backup, is provided for reference or advanced troubleshooting.
+
+* **Download Link:** [VENV_CV REFERENCE FOLDER](https://drive.google.com/drive/folders/17sYG7F3cFY2YYf6Iu61YvGkxTtKFqe3_?usp=drive_link)
+* > **Note for Users:** It is highly recommended to use the **`requirements.txt`** file to build a new, clean environment on your own system (the professional method), as this folder may not be portable.

@@ -15,6 +15,13 @@ The project demonstrates successful integration and deployment of multiple compl
 | **Core Function** | Identifies behavior for proactive monitoring against pre-defined actions. |
 
 ### 🛠️ Technology Stack
+## 💻 Tech Stack & Tools
+
+![Python 3.x](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/Library-OpenCV-brightgreen?style=flat&logo=opencv) 
+![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-orange?style=flat&logo=scikit-learn) 
+![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-red?style=flat&logo=yolo) 
+![Pandas](https://img.shields.io/badge/Data-Pandas-150458?style=flat&logo=pandas)
 
 | Library | Function | Technical Skill Demonstrated |
 | :--- | :--- | :--- |

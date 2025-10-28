@@ -1,21 +1,5 @@
-# 1. Virtual Environment Folder 
 venv_cv/
-
-# 2. Python Cache Files
-__pycache__/
-*.pyc
-*.pyd
-
-# 3. Model Files (Trained models and downloaded weights)
+Action_Data/
 *.pkl
 *.pt
 *.onnx
-
-# 4. Data Files (Large, raw data like Excel)
-*.xl
-*.xls
-*.xlsx
-
-# 5. Operating System (OS) & IDE Files
-.DS_Store
-*.swp

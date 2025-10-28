@@ -36,7 +36,7 @@ To run the system, follow these simple steps using the fixed environment:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR-REPO-URL]
+    git clone [https://github.com/Nageswar548/Proactive-Real-Time-Behavioral-Security-Monitoring-System]
     cd CV_Security_Monitor
     ```
 
